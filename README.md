@@ -10,7 +10,7 @@ Our project will involve the ESABO approach and modified ESABO approach in a sys
 
 ## Methodology:
 The research has been broadly divided into two subsections where we will looking extensively into two different datasets of interest: 
-1) microbiome dataset and,
+1) microbiome dataset, and,
 2) plant species abundance dataset.
 
 The study initiates with a comparison of the original and modified ESABO approach in order to adopt the best approach as the primary method for our investigation. It proceeds with the thresholding of different subsets of the microbiome data and analysis of the research questions on the same.The application of ESABO approach is extended to the plant abundance dataset in the later part of the study.
