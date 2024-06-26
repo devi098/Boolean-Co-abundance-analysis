@@ -1,5 +1,5 @@
-Project Title: Thresholded Boolean Co-Abundance (ESABO) analysis for continuous-valued datasets
-Project Category/Topic:  Data Science
+## Project Title: Thresholded Boolean Co-Abundance (ESABO) analysis for continuous-valued datasets
+## Project Category/Topic:  Data Science
 
 ## Motivation:
 Our project will involve the ESABO approach and modified ESABO approach in a systematic manner. Both the approaches input binary abundance vectors for co-abundance analysis. Below are the
@@ -14,14 +14,14 @@ valuable the insights that can inform ecological research and conservation effor
 • We are also interested in analysing the complex networks attained as a result of the ESABO approaches. The analysis of these inferred networks help in its evaluation through network
 complexity measures and also comprehends whether the optimal threshold value can actually result in inference of denser networks in the data.
 
-Methodology:
+## Methodology:
 The research has been broadly divided into two subsections where we will looking extensively into two different datasets of interest: 
 (i) microbiome dataset and, 
 (ii) plant species abundance dataset. 
 The study initiates with a comparison of the original and modified ESABO approach in order to adopt the best approach as the primary method for our investigation. It proceeds with the thresholding of different
 subsets of the microbiome data and analysis of the research questions on the same.The application of ESABO approach is extended to the plant abundance dataset in the later part of the study.
 
-Instructions: 
+## Instructions: 
 There are three files on the repository for the project.
 1) The python file under the name- 'Dissertation_finalcode.ipynb’
 2) The first dataset for use under the name- ‘taxonomic_profiles.xlsx’
