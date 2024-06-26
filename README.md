@@ -1,8 +1,7 @@
 Project Title: Thresholded Boolean Co-Abundance (ESABO) analysis for continuous-valued datasets
 Project Category/Topic:  Data Science
 
-Motivation:
-
+## Motivation:
 Our project will involve the ESABO approach and modified ESABO approach in a systematic manner. Both the approaches input binary abundance vectors for co-abundance analysis. Below are the
 motivations of the current study:
 • Extending the ESABO approach to continuous valued abundance datasets. The current ESABO approach assumes a threshold of 1(i.e, absence-0, presence-1). We are interested in investigating
